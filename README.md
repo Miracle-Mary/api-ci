@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/n92v78kse6dmc7xr?svg=true)](https://ci.appveyor.com/project/Miracle-Mary/api-ci)
